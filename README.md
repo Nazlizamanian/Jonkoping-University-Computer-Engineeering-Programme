@@ -5,10 +5,9 @@ The first year of the program is primarily dedicated to foundational courses in 
 The education is largely based on projects and exercises that provide practical experience of the techniques being taught. Projects can span across multiple courses: in one course, you might build a user interface for a mobile app, then in the next course, construct its data storage, and in a third course, work on its network functionality. This approach offers a holistic view and understanding of the entire development process.
 
 # First Year 
-
 - Introduction to Computing 7.5hp 
 - Discrete Mathematics 7.5hp
-- [Introduction to Programming 9hp TIPK10](#introduction-to-programming-9hptipk10)
+- <a href="#introduction-to-programming-9hptipk10">Introduction to Programming 9hp TIPK10</a>
 - Linear Algebra 6hp
 - [Databases 6hp](#databases-6hp)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
