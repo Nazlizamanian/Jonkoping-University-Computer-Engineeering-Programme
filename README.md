@@ -69,7 +69,7 @@ This course equips students with both theoretical knowledge and practical skills
 - Programming Practice: Involving actual coding and implementation of object-oriented programming concepts.
 
 
-#Object-oriented Software Development with Design Patterns 7.5hp (https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
+# Object-oriented Software Development with Design Patterns 7.5hp (https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
 ## Course Description
 
 
