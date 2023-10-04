@@ -48,9 +48,14 @@ In this course, the systems utilized included MySQL and Microsoft SQL Server Man
 - Transaction management
 
 # Datastructures and Algorithms 7.5hp TDSK17
+## Course Description
+Advanced computer programs almost always make use of certain fundamental data structures (stacks, queues, hash tables, etc.). A programmer must, therefore, be well-acquainted with these data structures. They must understand how they work, what performance they offer, and how they can be utilized by programs solving complex problems. This course aims to address this need while providing students with the opportunity to practice their previously acquired knowledge in C/C++ and deepen their understanding of structured programming. The course covers the most fundamental data structures in computer science and the algorithms used to store and retrieve data from these structures. The course also includes several examples of applications.The course includes the following topics:
 
-
-## Course Description 
+- Recursion
+- Algorithm Analysis
+- Basic Data Structures
+- Graphs
+- Sorting
 
 
 # Object oriented programming 7.5hp TOPK18
