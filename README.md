@@ -1,4 +1,4 @@
-# Jönköping-University-Computer-Engineeering-Programme
+# Jönköping University Computer Engineeering Programme
 
 # About the programme
 The first year of the program is primarily dedicated to foundational courses in programming, aimed at providing students with a fundamental basic understanding of both programming and mathematics. The second year is centered around the specialization in software development and mobile platforms.
