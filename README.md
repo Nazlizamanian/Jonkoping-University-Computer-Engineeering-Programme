@@ -17,7 +17,7 @@ The education is largely based on projects and exercises that provide practical 
 
 # Second Year 
 -  [Web Development Fundamentals 7.5hp TGWK12](#web-development-fundamentals-75hp-TGWK12)
--  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp)
+-  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp-TOUK18)
 -  Android och gränssnittsdesign (Android Development) 7.5hp
 -  Network programming 7.5hp
 
