@@ -20,6 +20,8 @@ The education is largely based on projects and exercises that provide practical 
 -  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp-TOUK18)
 -  Android och gränssnittsdesign (Android Development) 7.5hp
 -  Network programming 7.5hp
+-  iOS Development 7.5hp TISK18
+-  Web Development - Advanced Concepts 7.5hp TFWN19
 
 # [Introduction to Programming 9hp TIPK10](https://github.com/Nazlizamanian/introduction-to-programming)
 ## Course Description 
