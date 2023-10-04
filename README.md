@@ -22,7 +22,21 @@ The education is largely based on projects and exercises that provide practical 
 -  Network programming 7.5hp
 
 # Introduction To Programming 9hp
-ff
+## Course Description 
+The course aims to provide the student with fundamental knowledge in structured programming, including program design and implementation through imperative programming in C/C++.
+
+The course includes the following topics:
+
+Problem-solving with stepwise refinement
+Program structures (sequence, selection, iteration)
+Built-in and user-defined data types
+Memory allocation, pointers, and references
+Functions
+Introduction to classes and objects
+Using a debugger
+The C/C++ programming language, specifically the subset of C++ corresponding to C
+What distinguishes the C programming language from the subset of C++ we use in the course.
+
  # [Databases 6hp](https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL)
  ## Course Description 
 In this course, the systems utilized included MySQL and Microsoft SQL Server Management Studio. Upon course completion, students will have gained a comprehensive understanding of fundamental concepts related to relational databases, enabling them to proficiently model, create, and query simple databases according to specified requirements. Moreover, students will develop insight into the role of database development within the broader context of system and business development. The course encompasses the following key topics:
