@@ -6,7 +6,7 @@ The education is largely based on projects and exercises that provide practical 
 
 # First Year 
 
--  Introduction to Computing 7.5hp 
+- Introduction to Computing 7.5hp 
 - Discrete Mathematics 7.5hp
 - [Introduction to Programming 9hp](#introduction-to-programming-9hp)
 - Linear Algebra 6hp
@@ -26,16 +26,14 @@ The education is largely based on projects and exercises that provide practical 
 The course aims to provide the student with fundamental knowledge in structured programming, including program design and implementation through imperative programming in C/C++.
 
 The course includes the following topics:
-
-Problem-solving with stepwise refinement
-Program structures (sequence, selection, iteration)
-Built-in and user-defined data types
-Memory allocation, pointers, and references
-Functions
-Introduction to classes and objects
-Using a debugger
-The C/C++ programming language, specifically the subset of C++ corresponding to C
-What distinguishes the C programming language from the subset of C++ we use in the course.
+- Problem-solving with stepwise refinement
+- Program structures (sequence, selection, iteration)
+- Built-in and user-defined data types
+- Memory allocation, pointers, and references
+- Functions
+- Introduction to classes and objects
+- Using a debugger
+- The C/C++ programming language, specifically the subset of C++ corresponding to C What distinguishes the C programming language from the subset of C++ we use in the course.
 
  # [Databases 6hp](https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL)
  ## Course Description 
