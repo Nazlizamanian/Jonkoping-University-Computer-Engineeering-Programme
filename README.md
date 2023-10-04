@@ -7,14 +7,12 @@ The education is largely based on projects and exercises that provide practical 
 # First Year 
 - Introduction to Computing 7.5hp 
 - Discrete Mathematics 7.5hp
-- Introduction to Programming 9hp
+- [Introduction to Programming 9hp](#introduction-to-programming-9hp)
 - Linear Algebra 6hp
 - [Databases 6hp](#databases-6hp)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
 - [Calculus 1 (Envariabelsanalys) 9hp](#Calculus-1-Envariabelsanalys-9hp)
 - [Object oriented programming 7.5hp TOPK18](#object-oriented-programming-75hptopk18)
-
-
 
 
 # Second Year 
@@ -23,7 +21,7 @@ The education is largely based on projects and exercises that provide practical 
 -  Android och gränssnittsdesign (Android Development) 7.5hp
 -  Network programming 7.5hp
 
-# Introduction to Programming 9hp TIPK10
+# [Introduction to Programming 9hp](https://github.com/Nazlizamanian/introduction-to-programming)
 ## Course Description 
 The course aims to provide the student with fundamental knowledge in structured programming, including program design and implementation through imperative programming in C/C++. This course is organized and assessed through a combination of an exam and laboratory assignments. The laboratory component of the course encompasses a series of practical assignments, affording students valuable hands-on experience and an avenue to put into practice the theoretical insights acquired during the lectures.
 
