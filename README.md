@@ -7,7 +7,7 @@ The education is largely based on projects and exercises that provide practical 
 # First Year 
 - Introduction to Computing 7.5hp 
 - Discrete Mathematics 7.5hp
-- <a href="#introduction-to-programming-9hptipk10">Introduction to Programming 9hp TIPK10</a>
+- Introduction to Programming 9hp
 - Linear Algebra 6hp
 - [Databases 6hp](#databases-6hp)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
