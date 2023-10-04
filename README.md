@@ -71,7 +71,12 @@ This course equips students with both theoretical knowledge and practical skills
 
 # [Object-oriented Software Development with Design Patterns 7.5hp](https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
 ## Course Description
+The course aims to provide students with the knowledge required to perform object-oriented design in accordance with established practices and to be able to implement the results of such design in program code. The course includes the following topics:
 
+- Introduction to software development methodologies: waterfall models, iterative methods, agile methods
+- Software requirements specification and validation
+- Unified Modeling Language: class diagrams, sequence diagrams, use case diagrams, etc.
+- Design patterns: object-oriented patterns, analysis patterns, patterns for system architecture
 
 
 
