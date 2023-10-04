@@ -45,9 +45,9 @@ In this course, the systems utilized included MySQL and Microsoft SQL Server Man
 - Databases in the system development life cycle
 - Transaction management
 
-# [Datastructures-and-Algorithms-7.5hp]
+# Datastructures-and-Algorithms-7.5hp
 
-# [Object oriented programming 7.5hp]
+# Object oriented programming 7.5hp
 
 ## Course Description 
 This course equips students with both theoretical knowledge and practical skills in object-oriented software development.The course is designed to provide students with a solid understanding of object-oriented software development and programming languages. The course covers the following key components:
