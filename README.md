@@ -7,9 +7,9 @@ The education is largely based on projects and exercises that provide practical 
 # First Year 
 - Introduction to Computing 7.5hp 
 - Discrete Mathematics 7.5hp
-- [Introduction to Programming 9hp](#introduction-to-programming-9hp)
+- [Introduction to Programming 9hp TIPK10](#introduction-to-programming-9hp-TIPK10)
 - Linear Algebra 6hp
-- [Databases 6hp](#databases-6hp)
+- [Databases 6hp TDRK18](#databases-6hp-TDRK18)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
 - [Calculus 1 (Envariabelsanalys) 9hp](#Calculus-1-Envariabelsanalys-9hp)
 - [Object oriented programming 7.5hp TOUK18](#object-oriented-programming-75hpTOUK18)
@@ -21,7 +21,7 @@ The education is largely based on projects and exercises that provide practical 
 -  Android och gränssnittsdesign (Android Development) 7.5hp
 -  Network programming 7.5hp
 
-# [Introduction to Programming 9hp](https://github.com/Nazlizamanian/introduction-to-programming)
+# [Introduction to Programming 9hp TIPK10](https://github.com/Nazlizamanian/introduction-to-programming)
 ## Course Description 
 The course aims to provide the student with fundamental knowledge in structured programming, including program design and implementation through imperative programming in C/C++. This course is organized and assessed through a combination of an exam and laboratory assignments. The laboratory component of the course encompasses a series of practical assignments, affording students valuable hands-on experience and an avenue to put into practice the theoretical insights acquired during the lectures.
 
@@ -35,7 +35,7 @@ The course includes the following topics:
 - Using a debugger
 - The C/C++ programming language, specifically the subset of C++ corresponding to C What distinguishes the C programming language from the subset of C++ we use in the course.
 
- # [Databases 6hp](https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL)
+ # [Databases 6hp TDRK18](https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL)
  ## Course Description 
 In this course, the systems utilized included MySQL and Microsoft SQL Server Management Studio. Upon course completion, students will have gained a comprehensive understanding of fundamental concepts related to relational databases, enabling them to proficiently model, create, and query simple databases according to specified requirements. Moreover, students will develop insight into the role of database development within the broader context of system and business development. The course encompasses the following key topics:
 - Relational databases and their theoretical foundations
