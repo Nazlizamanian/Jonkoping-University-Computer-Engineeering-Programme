@@ -45,7 +45,8 @@ In this course, the systems utilized included MySQL and Microsoft SQL Server Man
 - Databases in the system development life cycle
 - Transaction management
 
-# Datastructures and Algorithms-7.5hp
+# Datastructures-and-Algorithms-7.5hp
+
 
 # [Object oriented programming 7.5hp]
 
