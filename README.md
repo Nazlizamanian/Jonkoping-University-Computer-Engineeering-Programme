@@ -59,7 +59,6 @@ Advanced computer programs almost always make use of certain fundamental data st
 
 
 # Object oriented programming 7.5hp TOPK18
-
 ## Course Description 
 This course equips students with both theoretical knowledge and practical skills in object-oriented software development.The course is designed to provide students with a solid understanding of object-oriented software development and programming languages. The course covers the following key components:
 - Object-Oriented Concepts: Exploring the fundamental principles of object-oriented programming, including objects, classes, encapsulation, inheritance, and polymorphism.
@@ -71,7 +70,7 @@ This course equips students with both theoretical knowledge and practical skills
 
 # [Web Development Fundamentals 7.5hp](https://github.com/Nazlizamanian/personalportfolio-nz)
 ## Course Description
-The course aims to provide fundamental knowledge in web programming. It begins with an overview of the structure of the web and continues with how to build static web pages using HTML and CSS. It then covers JavaScript and Node.js, teaching students how to implement dynamic web pages that can generate different HTML codes for various clients. Users can fill in forms and send data to the server. Special emphasis is placed on cookies, sessions, database usage, and security. The course includes the following topics:
+The course aims to provide fundamental knowledge in web programming. It begins with an overview of the structure of the web and continues with how to build static web pages using HTML and CSS. It then covers JavaScript and Node.js, teaching students how to implement dynamic web pages that can generate different HTML codes for various clients. Users can fill in forms and send data to the server. Special emphasis is placed on cookies, sessions, database usage, and security.The course assessment comprised an individual project and an examination. The course includes the following topics:
 - Client-server communication and HTTP
 - HTML
 - CSS and CSS frameworks
