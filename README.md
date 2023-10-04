@@ -19,7 +19,7 @@ The education is largely based on projects and exercises that provide practical 
 
 # Second Year 
 -  Web Development Fundamentals 7.5hp
--  Object-oriented Software Development with Design Patterns 7.5hp
+-  [Object-oriented Software Development with Design Patterns 7.5hp](#object-oriented-software-development-with-design-patterns-75hp)
 -  Android och gränssnittsdesign (Android Development) 7.5hp
 -  Network programming 7.5hp
 
@@ -69,8 +69,8 @@ This course equips students with both theoretical knowledge and practical skills
 - Programming Practice: Involving actual coding and implementation of object-oriented programming concepts.
 
 
-
-
+#Object-oriented Software Development with Design Patterns 7.5hp (https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
+## Course Description
 
 
 
