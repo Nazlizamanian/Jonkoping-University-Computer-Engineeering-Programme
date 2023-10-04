@@ -8,7 +8,7 @@ The education is largely based on projects and exercises that provide practical 
 
 -  Introduction to Computing 7.5hp 
 - Discrete Mathematics 7.5hp
--[Introduction to Programming 9hp](#introduction-to-programming-9hp)
+- [Introduction to Programming 9hp](#introduction-to-programming-9hp)
 - Linear Algebra 6hp
 - [Databases 6hp](#databases-6hp)
 - [Datastructures and Algorithms 7.5hp]
