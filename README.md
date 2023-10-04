@@ -22,4 +22,4 @@ The education is largely based on projects and exercises that provide practical 
 -  Network programming 7.5hp
 
 
-  # [Databases 6hp]https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL
+ # [Databases 6hp](https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL)
