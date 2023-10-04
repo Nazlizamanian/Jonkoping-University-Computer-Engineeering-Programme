@@ -12,7 +12,7 @@ The education is largely based on projects and exercises that provide practical 
 - Linear Algebra 6hp
 - [Databases 6hp](#databases-6hp)
 - [Datastructures and Algorithms 7.5hp](#Datastructures-and-Algorithms-7.5hp)
-- Calculus 1 (Envariabelsanalys) 9hp]
+- [Calculus 1 (Envariabelsanalys) 9hp](#Calculus-1-Envariabelsanalys-9hp)
 - [Object oriented programming 7.5hp](#Object-oriented-programming-7.5hp)
 
 # Second Year 
