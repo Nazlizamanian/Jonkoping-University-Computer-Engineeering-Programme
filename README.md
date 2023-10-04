@@ -12,12 +12,12 @@ The education is largely based on projects and exercises that provide practical 
 - [Databases 6hp](#databases-6hp)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
 - [Calculus 1 (Envariabelsanalys) 9hp](#Calculus-1-Envariabelsanalys-9hp)
-- [Object oriented programming 7.5hp TOPK18](#object-oriented-programming-75hptopk18)
+- [Object oriented programming 7.5hp TOUK18](#object-oriented-programming-75hpTOUK18)
 
 
 # Second Year 
 -  [Web Development Fundamentals 7.5hp TGWK12](#web-development-fundamentals-75hp-TGWK12)
--  [Object-oriented Software Development with Design Patterns 7.5hp](#object-oriented-software-development-with-design-patterns-75hp)
+-  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp)
 -  Android och gränssnittsdesign (Android Development) 7.5hp
 -  Network programming 7.5hp
 
