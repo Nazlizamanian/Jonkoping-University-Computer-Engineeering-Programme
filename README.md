@@ -24,13 +24,14 @@ The education is largely based on projects and exercises that provide practical 
 
  # [Databases 6hp](https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL)
  ## Course Description 
- After completing the course, the student should have a grasp of the basics of relational databases and be able to model, create simple databases, and query them based on given requirements. The student should also have an understanding of database development as a part of system and business development. The course covers the following topics:
+In this course, the systems utilized included MySQL and Microsoft SQL Server Management Studio. Upon course completion, students will have gained a comprehensive understanding of fundamental concepts related to relational databases, enabling them to proficiently model, create, and query simple databases according to specified requirements. Moreover, students will develop insight into the role of database development within the broader context of system and business development. The course encompasses the following key topics:
 - Relational databases and their theoretical foundations
 - Database design using entity/relationship modeling
 - Normalization theory
 - Query languages
 - Databases in the system development life cycle
 - Transaction management
+
 
 
 
