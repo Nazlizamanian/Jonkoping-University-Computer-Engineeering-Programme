@@ -8,7 +8,7 @@ The education is largely based on projects and exercises that provide practical 
 
 - Introduction to Computing 7.5hp 
 - Discrete Mathematics 7.5hp
-- [Introduction to Programming 9hp TIPK10](#introduction-to-programming-9hpTIPK10)
+- [Introduction to Programming 9hp TIPK10](#introduction-to-programming-9hptipk10)
 - Linear Algebra 6hp
 - [Databases 6hp](#databases-6hp)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
@@ -24,7 +24,7 @@ The education is largely based on projects and exercises that provide practical 
 -  Android och gränssnittsdesign (Android Development) 7.5hp
 -  Network programming 7.5hp
 
-# Introduction To Programming 9hp TIPK10
+# Introduction to Programming 9hp TIPK10
 ## Course Description 
 The course aims to provide the student with fundamental knowledge in structured programming, including program design and implementation through imperative programming in C/C++. This course is organized and assessed through a combination of an exam and laboratory assignments. The laboratory component of the course encompasses a series of practical assignments, affording students valuable hands-on experience and an avenue to put into practice the theoretical insights acquired during the lectures.
 
