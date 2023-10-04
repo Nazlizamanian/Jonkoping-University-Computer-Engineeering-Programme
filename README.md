@@ -18,7 +18,7 @@ The education is largely based on projects and exercises that provide practical 
 
 
 # Second Year 
--  Web Development Fundamentals 7.5hp
+-  [Web Development Fundamentals 7.5hp](#web-development-fundamentals-75hp)
 -  [Object-oriented Software Development with Design Patterns 7.5hp](#object-oriented-software-development-with-design-patterns-75hp)
 -  Android och gränssnittsdesign (Android Development) 7.5hp
 -  Network programming 7.5hp
@@ -69,6 +69,18 @@ This course equips students with both theoretical knowledge and practical skills
 - Programming Practice: Involving actual coding and implementation of object-oriented programming concepts.
 
 
+# [Web Development Fundamentals 7.5hp](https://github.com/Nazlizamanian/personalportfolio-nz)
+## Course Description
+The course aims to provide fundamental knowledge in web programming. It begins with an overview of the structure of the web and continues with how to build static web pages using HTML and CSS. It then covers JavaScript and Node.js, teaching students how to implement dynamic web pages that can generate different HTML codes for various clients. Users can fill in forms and send data to the server. Special emphasis is placed on cookies, sessions, database usage, and security. The course includes the following topics:
+- Client-server communication and HTTP
+- HTML
+- CSS and CSS frameworks
+- JavaScript
+- Node.js and Node Package Manager
+- Frameworks and related technologies
+- Forms, cookies, and sessions
+- Security
+  
 # [Object-oriented Software Development with Design Patterns 7.5hp](https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
 ## Course Description
 The course aims to provide students with the knowledge required to perform object-oriented design in accordance with established practices and to be able to implement the results of such design in program code. The course includes the following topics:
