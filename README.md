@@ -1,1 +1,1 @@
-# J-nk-ping-University-Computer-Engineeering-Programme
+# Jönköping-University-Computer-Engineeering-Programme
