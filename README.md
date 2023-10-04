@@ -23,7 +23,7 @@ The education is largely based on projects and exercises that provide practical 
 
 # Introduction To Programming 9hp
 ## Course Description 
-The course aims to provide the student with fundamental knowledge in structured programming, including program design and implementation through imperative programming in C/C++.
+The course aims to provide the student with fundamental knowledge in structured programming, including program design and implementation through imperative programming in C/C++. This course is organized and assessed through a combination of an exam and laboratory assignments. The laboratory component of the course encompasses a series of practical assignments, affording students valuable hands-on experience and an avenue to put into practice the theoretical insights acquired during the lectures.
 
 The course includes the following topics:
 - Problem-solving with stepwise refinement
