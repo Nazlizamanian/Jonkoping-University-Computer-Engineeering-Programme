@@ -78,7 +78,7 @@ The course aims to provide fundamental knowledge in web programming. It begins w
 - Forms, cookies, and sessions
 - Security
   
-# [Object-oriented Software Development with Design Patterns 7.5hp](https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
+# [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
 ## Course Description
 The course aims to provide students with the knowledge required to perform object-oriented design in accordance with established practices and to be able to implement the results of such design in program code. The course includes the following topics:
 
