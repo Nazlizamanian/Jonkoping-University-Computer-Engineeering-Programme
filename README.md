@@ -5,7 +5,7 @@ The first year of the program is primarily dedicated to foundational courses in 
 The education is largely based on projects and exercises that provide practical experience of the techniques being taught. Projects can span across multiple courses: in one course, you might build a user interface for a mobile app, then in the next course, construct its data storage, and in a third course, work on its network functionality. This approach offers a holistic view and understanding of the entire development process.
 
 # First Year 
-- Introduction to Computing 7.5hp 
+- Introduction to Computing 7.5hp TDIG19
 - Discrete Mathematics 7.5hp
 - [Introduction to Programming 9hp TIPK10](#introduction-to-programming-9hp-TIPK10)
 - Linear Algebra 6hp
@@ -22,6 +22,20 @@ The education is largely based on projects and exercises that provide practical 
 -  Network programming 7.5hp
 -  iOS Development 7.5hp TISK18
 -  Web Development - Advanced Concepts 7.5hp TFWN19
+
+# Introduction to Computing 7.5hp TDIG19
+## Course Description 
+The content of the course aims to provide the student with an introduction to fundamental computer science terms and concepts, as well as an understanding of how code is compiled and executed on a computer. The course is organized and assessed through a combination of an exam and laboratory assignments. The laboratory component of the course encompasses a series of practical assignments, affording students valuable hands-on experience and an avenue to put into practice the theoretical insights acquired during the lectures. The course includes the following topics:
+
+- Introduction to digital technology
+- Data representation formats
+- CPU architecture
+- Introduction to assembler and C
+- Compilation tools and the compilation process
+- Embedded systems
+
+
+
 
 # [Introduction to Programming 9hp TIPK10](https://github.com/Nazlizamanian/introduction-to-programming)
 ## Course Description 
