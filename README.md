@@ -57,6 +57,22 @@ Advanced computer programs almost always make use of certain fundamental data st
 - Graphs
 - Sorting
 
+# Calculus 1 (Envariabelsanalys) 9hp
+## Course Description 
+The course aims to provide fundamental knowledge of differential and integral calculus in a real variable and to enhance the ability to use the language and symbolism of mathematics to follow and conduct logical and mathematical reasoning. This, in turn, creates the foundation for the mathematical treatment of technical problems in professional practice. The course examination cotains two bigger exams and weekly homework assignments.
+The course includes the following topics:
+
+- Function theory, domain, and range
+- Elementary functions and their inverses
+- Limits and continuity
+- Derivatives, rules of differentiation, and some applications of derivatives such as differential calculus, optimization problems, and numerical equation solving using the Newton-Raphson method
+- Techniques for determining antiderivatives, partial integration, variable substitution, and simple partial fraction decomposition
+- Computation of definite and indefinite integrals
+- Linear and separable first-order differential equations
+- Second-order linear differential equations with constant coefficients
+
+
+
 
 # Object oriented programming 7.5hp TOPK18
 ## Course Description 
