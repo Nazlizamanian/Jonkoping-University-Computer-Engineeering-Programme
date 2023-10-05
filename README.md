@@ -11,7 +11,7 @@ The education is largely based on projects and exercises that provide practical 
 - Linear Algebra 6hp
 - [Databases 6hp TDRK18](#databases-6hp-TDRK18)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
-- [Calculus 1 (Envariabelsanalys) 9hp](#Calculus-1-Envariabelsanalys-9hp)
+- [Calculus 1 (Envariabelsanalys) 9hp TEVG17](#Calculus-1-Envariabelsanalys-9hp-TEVG17)
 - [Object oriented programming 7.5hp TOUK18](#object-oriented-programming-75hpTOUK18)
 
 
@@ -57,7 +57,7 @@ Advanced computer programs almost always make use of certain fundamental data st
 - Graphs
 - Sorting
 
-# Calculus 1 (Envariabelsanalys) 9hp
+# Calculus 1 (Envariabelsanalys) 9hp TEVG17
 ## Course Description 
 The course aims to provide fundamental knowledge of differential and integral calculus in a real variable and to enhance the ability to use the language and symbolism of mathematics to follow and conduct logical and mathematical reasoning. This, in turn, creates the foundation for the mathematical treatment of technical problems in professional practice. The course examination cotains two bigger exams and weekly homework assignments.
 The course includes the following topics:
