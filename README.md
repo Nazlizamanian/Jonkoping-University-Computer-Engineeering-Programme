@@ -6,7 +6,7 @@ The education is largely based on projects and exercises that provide practical 
 
 # First Year 
 - Introduction to Computing 7.5hp TDIG19
-- Discrete Mathematics 7.5hp
+- Discrete Mathematics 7.5hp TDMG17
 - [Introduction to Programming 9hp TIPK10](#introduction-to-programming-9hp-TIPK10)
 - Linear Algebra 6hp
 - [Databases 6hp TDRK18](#databases-6hp-TDRK18)
@@ -35,6 +35,19 @@ The content of the course aims to provide the student with an introduction to fu
 - Embedded systems
 
 
+# Discrete Mathematics 7.5hp TDMG17
+## Course Description 
+The course introduces some of the fundamental elements of discrete mathematics, including set theory, combinatorics, modular arithmetic, propositional and predicate logic, and graph theory. The course is assessed through a final exam. The course includes the following topics:
+
+- Basic integer mathematics and modular arithmetic
+- Numbers in different bases
+- Set theory with applications
+- Combinatorics with applications
+- Mathematical recursion and induction
+- RSA encryption and other ciphers
+- Functions and relations between finite sets, equivalence relations
+- Fundamental graph theory
+- Propositional logic, predicate logic, and logical reasoning.
 
 
 # [Introduction to Programming 9hp TIPK10](https://github.com/Nazlizamanian/introduction-to-programming)
