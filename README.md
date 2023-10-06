@@ -23,8 +23,9 @@ The education is largely based on projects and exercises that provide practical 
 -  iOS Development 7.5hp TISK18
 -  Web Development - Advanced Concepts 7.5hp TFWN19
 
-# Introduction to Computing 7.5hp TDIG19
-## Course Description 
+# Firstyear
+## Introduction to Computing 7.5hp TDIG19
+### Course Description 
 The content of the course aims to provide the student with an introduction to fundamental computer science terms and concepts, as well as an understanding of how code is compiled and executed on a computer. The course is organized and assessed through a combination of an exam and laboratory assignments. The laboratory component of the course encompasses a series of practical assignments, affording students valuable hands-on experience and an avenue to put into practice the theoretical insights acquired during the lectures. The course includes the following topics:
 
 - Introduction to digital technology
@@ -35,8 +36,8 @@ The content of the course aims to provide the student with an introduction to fu
 - Embedded systems
 
 
-# Discrete Mathematics 7.5hp TDMG17
-## Course Description 
+## Discrete Mathematics 7.5hp TDMG17
+### Course Description 
 The course introduces some of the fundamental elements of discrete mathematics, including set theory, combinatorics, modular arithmetic, propositional and predicate logic, and graph theory. The course is assessed through a final exam. The course includes the following topics:
 
 - Basic integer mathematics and modular arithmetic
@@ -146,7 +147,7 @@ The course aims to provide students with the knowledge required to perform objec
 - Unified Modeling Language: class diagrams, sequence diagrams, use case diagrams, etc.
 - Design patterns: object-oriented patterns, analysis patterns, patterns for system architecture
 
-# NetWork Programming 7.5hp TNPK18
+# Network Programming 7.5hp TNPK18
 ## Course Description 
 The course provides an introduction to the structure of the Internet and TCP/IP protocols, but then focuses on the upper layers of the OSI model (session, presentation, and application layers).The course includes the following topics:
 
