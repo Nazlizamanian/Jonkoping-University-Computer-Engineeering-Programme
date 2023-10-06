@@ -23,7 +23,7 @@ The education is largely based on projects and exercises that provide practical 
 -  iOS Development 7.5hp TISK18
 -  Web Development - Advanced Concepts 7.5hp TFWN19
 
-# Firstyear
+# Year I
 ## Introduction to Computing 7.5hp TDIG19
 ### Course Description 
 The content of the course aims to provide the student with an introduction to fundamental computer science terms and concepts, as well as an understanding of how code is compiled and executed on a computer. The course is organized and assessed through a combination of an exam and laboratory assignments. The laboratory component of the course encompasses a series of practical assignments, affording students valuable hands-on experience and an avenue to put into practice the theoretical insights acquired during the lectures. The course includes the following topics:
@@ -97,8 +97,6 @@ Advanced computer programs almost always make use of certain fundamental data st
 - Graphs
 - Sorting
 
-
-
 ## Calculus 1 (Envariabelsanalys) 9hp TEVG17
 ### Course Description 
 The course aims to provide fundamental knowledge of differential and integral calculus in a real variable and to enhance the ability to use the language and symbolism of mathematics to follow and conduct logical and mathematical reasoning. This, in turn, creates the foundation for the mathematical treatment of technical problems in professional practice. The course examination cotains two bigger exams and weekly homework assignments.
@@ -124,7 +122,7 @@ This course equips students with both theoretical knowledge and practical skills
 - Programming Practice: Involving actual coding and implementation of object-oriented programming concepts.
 
 
-# Second Year 
+# Year II
 ## [Web Development Fundamentals 7.5hp TGWK12](https://github.com/Nazlizamanian/personalportfolio-nz)
 ### Course Description
 The course aims to provide fundamental knowledge in web programming. It begins with an overview of the structure of the web and continues with how to build static web pages using HTML and CSS. It then covers JavaScript and Node.js, teaching students how to implement dynamic web pages that can generate different HTML codes for various clients. Users can fill in forms and send data to the server. Special emphasis is placed on cookies, sessions, database usage, and security.The course assessment comprised an individual project and an examination. The course includes the following topics:
