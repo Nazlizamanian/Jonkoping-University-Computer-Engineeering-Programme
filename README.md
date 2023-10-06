@@ -8,7 +8,7 @@ The education is largely based on projects and exercises that provide practical 
 - Introduction to Computing 7.5hp TDIG19
 - Discrete Mathematics 7.5hp TDMG17
 - [Introduction to Programming 9hp TIPK10](#introduction-to-programming-9hp-TIPK10)
-- Linear Algebra 6hp
+- Linear Algebra 6hp TLJG17
 - [Databases 6hp TDRK18](#databases-6hp-TDRK18)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
 - [Calculus 1 (Envariabelsanalys) 9hp TEVG17](#Calculus-1-Envariabelsanalys-9hp-TEVG17)
@@ -64,6 +64,18 @@ The course includes the following topics:
 - Using a debugger
 - The C/C++ programming language, specifically the subset of C++ corresponding to C What distinguishes the C programming language from the subset of C++ we use in the course.
 
+# Linear Algebra 6hp TLJG17
+## Course Description 
+The course introduces vectors and demonstrates how vector calculations are used to solve geometric problems. It provides theory and systematic methods for solving linear equation systems. Additionally, determinants, matrices, and matrix algebra are introduced. The course includes the following topics:
+- Linear equation systems, Gaussian elimination
+- Vector algebra with geometric applications
+- Matrices and matrix algebra
+- Determinants with applications
+- Bases and base changes
+- Eigenvalues and eigenvectors, diagonalization, Markov processes
+- Using software for vector and matrix calculations.
+
+
  # [Databases 6hp TDRK18](https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL)
  ## Course Description 
 In this course, the systems utilized included MySQL and Microsoft SQL Server Management Studio. Upon course completion, students will have gained a comprehensive understanding of fundamental concepts related to relational databases, enabling them to proficiently model, create, and query simple databases according to specified requirements. Moreover, students will develop insight into the role of database development within the broader context of system and business development. The course encompasses the following key topics:
@@ -83,6 +95,8 @@ Advanced computer programs almost always make use of certain fundamental data st
 - Basic Data Structures
 - Graphs
 - Sorting
+
+
 
 # Calculus 1 (Envariabelsanalys) 9hp TEVG17
 ## Course Description 
