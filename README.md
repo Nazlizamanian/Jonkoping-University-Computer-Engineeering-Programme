@@ -19,7 +19,7 @@ The education is largely based on projects and exercises that provide practical 
 -  [Web Development Fundamentals 7.5hp TGWK12](#web-development-fundamentals-75hp-TGWK12)
 -  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp-TOUK18)
 -  Android och gränssnittsdesign (Android Development) 7.5hp
--  Network programming 7.5hp
+-  Network programming 7.5hp TNPK18
 -  iOS Development 7.5hp TISK18
 -  Web Development - Advanced Concepts 7.5hp TFWN19
 
@@ -146,7 +146,19 @@ The course aims to provide students with the knowledge required to perform objec
 - Unified Modeling Language: class diagrams, sequence diagrams, use case diagrams, etc.
 - Design patterns: object-oriented patterns, analysis patterns, patterns for system architecture
 
+# NetWork Programming 7.5hp TNPK18
+## Course Description 
+The course provides an introduction to the structure of the Internet and TCP/IP protocols, but then focuses on the upper layers of the OSI model (session, presentation, and application layers).The course includes the following topics:
 
+- Introduction to data networks and the OSI model
+- Introduction to TCP/IP protocols
+- Client/server concepts
+- Socket programming
+- Scripting languages
+- Certain standard services and their protocols (Telnet, HTTP, SMTP, DNS, etc.)
+- How secure communication can be achieved through authentication and encryption (HTTPS, DNSSEC, S/MIME, PGP, etc.)
+- Principles of data compression for text and images
+- Decentralized architectures (Tor, Bitcoin, GPG, etc.)
 
 
 
