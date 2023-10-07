@@ -12,7 +12,7 @@ The education is largely based on projects and exercises that provide practical 
 - [Databases 6hp TDRK18](#databases-6hp-TDRK18)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
 - [Calculus 1 (Envariabelsanalys) 9hp TEVG17](#Calculus-1-Envariabelsanalys-9hp-TEVG17)
-- [Object oriented programming 7.5hp TOUK18](#object-oriented-programming-75hp-TOUK18)
+- [Object oriented programming 7.5hp TOUK18](#object-oriented-programming-75hp-touk18)
 
 
 # Second Year 
