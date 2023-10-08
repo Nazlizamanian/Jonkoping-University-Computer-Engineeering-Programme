@@ -123,7 +123,7 @@ This course equips students with both theoretical knowledge and practical skills
 
 
 # Year II
-## [Web Development Fundamentals 7.5hp TGWK12](https://github.com/Nazlizamanian/personalportfolio-nz)
+## [Web Development Fundamentals 7.5hp TGWK12](https://github.com/Nazlizamanian/web-development-TGWK12)
 ### Course Description
 The course aims to provide fundamental knowledge in web programming. It begins with an overview of the structure of the web and continues with how to build static web pages using HTML and CSS. It then covers JavaScript and Node.js, teaching students how to implement dynamic web pages that can generate different HTML codes for various clients. Users can fill in forms and send data to the server. Special emphasis is placed on cookies, sessions, database usage, and security. The course assessment comprised an individual project, an examination and additional lab assigments. The course includes the following topics:
 - Client-server communication and HTTP
@@ -134,6 +134,7 @@ The course aims to provide fundamental knowledge in web programming. It begins w
 - Frameworks and related technologies
 - Forms, cookies, and sessions
 - Security
+#### [My personal portfolio project](https://github.com/Nazlizamanian/personalportfolio-nz)
   
 ## [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
 ### Course Description
