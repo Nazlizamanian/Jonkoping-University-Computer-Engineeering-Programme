@@ -114,7 +114,7 @@ The course includes the following topics:
 
 ## [Object oriented programming 7.5hp TOUK18](https://github.com/Nazlizamanian/Object-oriented-programming-TOUK18)
 ### Course Description 
-This course equips students with both theoretical knowledge and practical skills in object-oriented software development.The course is designed to provide students with a solid understanding of object-oriented software development and programming languages. The course covers the following key components:
+This course equips students with both theoretical knowledge and practical skills in object-oriented software development.The course is designed to provide students with a solid understanding of object-oriented software development and programming languages. The course examination cotains an exam at the end and additionally weekly homework assignments.The course covers the following key components:
 - Object-Oriented Concepts: Exploring the fundamental principles of object-oriented programming, including objects, classes, encapsulation, inheritance, and polymorphism.
 - Object-Oriented Design: Teaching students how to design software systems using object-oriented methodologies, including creating class hierarchies and modeling complex systems.
 - Object-Oriented Languages: Introducing different object-oriented programming languages and their unique characteristics.
