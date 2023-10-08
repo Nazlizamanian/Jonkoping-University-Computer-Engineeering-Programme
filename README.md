@@ -134,7 +134,7 @@ The course aims to provide fundamental knowledge in web programming. It begins w
 - Frameworks and related technologies
 - Forms, cookies, and sessions
 - Security
-#### [My personal portfolio project](https://github.com/Nazlizamanian/personalportfolio-nz)
+#### [My personal portfolio project🔗](https://github.com/Nazlizamanian/personalportfolio-nz)
   
 ## [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
 ### Course Description
