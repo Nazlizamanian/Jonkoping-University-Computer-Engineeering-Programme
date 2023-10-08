@@ -79,7 +79,7 @@ The course introduces vectors and demonstrates how vector calculations are used 
 
  ## [Databases 6hp TDRK18](https://github.com/Nazlizamanian/OnlineWebShopDatabaseSQL)
  ### Course Description 
-In this course, the systems utilized included MySQL and Microsoft SQL Server Management Studio. Upon course completion, students will have gained a comprehensive understanding of fundamental concepts related to relational databases, enabling them to proficiently model, create, and query simple databases according to specified requirements. Moreover, students will develop insight into the role of database development within the broader context of system and business development. The course encompasses the following key topics:
+In this course the systems MySQL and Microsoft SQL Server Management Studio were utilized. Upon course completion, students will have gained a comprehensive understanding of fundamental concepts related to relational databases, enabling them to proficiently model, create, and query simple databases according to specified requirements. Moreover, students will develop insight into the role of database development within the broader context of system and business development. The course was examinated with an exam and a small project in databases. The course encompasses the following key topics:
 - Relational databases and their theoretical foundations
 - Database design using entity/relationship modeling
 - Normalization theory
