@@ -4,7 +4,7 @@
 The first year of the program is primarily dedicated to foundational courses in programming, aimed at providing students with a fundamental basic understanding of both programming and mathematics. The second year is centered around the specialization in software development and mobile platforms.
 The education is largely based on projects and exercises that provide practical experience of the techniques being taught. Projects can span across multiple courses: in one course, you might build a user interface for a mobile app, then in the next course, construct its data storage, and in a third course, work on its network functionality. This approach offers a holistic view and understanding of the entire development process.
 
-# First Year 
+# Year I 
 - Introduction to Computing 7.5hp TDIG19
 - Discrete Mathematics 7.5hp TDMG17
 - [Introduction to Programming 9hp TIPK10](#introduction-to-programming-9hp-TIPK10)
@@ -15,7 +15,7 @@ The education is largely based on projects and exercises that provide practical 
 - [Object oriented programming 7.5hp TOUK18](#object-oriented-programming-75hp-touk18)
 
 
-# Second Year 
+# Year II 
 -  [Web Development Fundamentals 7.5hp TGWK12](#web-development-fundamentals-75hp-TGWK12)
 -  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp-TOUK18)
 -  Android och gränssnittsdesign (Android Development) 7.5hp
