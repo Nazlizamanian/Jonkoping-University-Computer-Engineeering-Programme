@@ -18,7 +18,7 @@ The first year of the program is primarily dedicated to foundational courses in 
 -  [Web Development Fundamentals 7.5hp TGWK12](#web-development-fundamentals-75hp-TGWK12)
 -  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp-TOUK18)
 -  Android och gränssnittsdesign (Android Development) 7.5hp
--  Network programming 7.5hp TNPK18
+-  [Network programming 7.5hp TNPK18](#network-programming-75hp-TNPK18)
 -  iOS Development 7.5hp TISK18
 -  Web Development - Advanced Concepts 7.5hp TFWN19
 
