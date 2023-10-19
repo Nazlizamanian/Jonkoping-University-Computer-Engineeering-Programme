@@ -161,6 +161,7 @@ The course aims to provide fundamental knowledge in web programming. It begins w
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="40" alt="handlebars logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
   
@@ -192,6 +193,15 @@ The course provides an introduction to the structure of the Internet and TCP/IP 
 - How secure communication can be achieved through authentication and encryption (HTTPS, DNSSEC, S/MIME, PGP, etc.)
 - Principles of data compression for text and images
 - Decentralized architectures (Tor, Bitcoin, GPG, etc.)
+
+### Programming Languages and Tools 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+</div>
+
 
 
 
