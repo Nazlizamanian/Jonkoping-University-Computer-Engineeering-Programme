@@ -144,7 +144,7 @@ The course aims to provide students with the knowledge required to perform objec
 - Unified Modeling Language: class diagrams, sequence diagrams, use case diagrams, etc.
 - Design patterns: object-oriented patterns, analysis patterns, patterns for system architecture
 
-## Network Programming 7.5hp TNPK18
+## [Network Programming 7.5hp TNPK18](https://github.com/Nazlizamanian/network-programming)
 ### Course Description 
 The course provides an introduction to the structure of the Internet and TCP/IP protocols, but then focuses on the upper layers of the OSI model (session, presentation, and application layers).The course includes the following topics:
 
