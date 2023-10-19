@@ -64,6 +64,13 @@ The course includes the following topics:
 - Using a debugger
 - The C/C++ programming language, specifically the subset of C++ corresponding to C What distinguishes the C programming language from the subset of C++ we use in the course.
 
+### Programming Languages and Tools
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
 ## Linear Algebra 6hp TLJG17
 ### Course Description 
 The course introduces vectors and demonstrates how vector calculations are used to solve geometric problems. It provides theory and systematic methods for solving linear equation systems. Additionally, determinants, matrices, and matrix algebra are introduced. The course includes the following topics:
