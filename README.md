@@ -145,7 +145,7 @@ The course aims to provide students with the knowledge required to perform objec
 - Unified Modeling Language: class diagrams, sequence diagrams, use case diagrams, etc.
 - Design patterns: object-oriented patterns, analysis patterns, patterns for system architecture
 
-## Programming Languages and Tools 
+### Programming Languages and Tools 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
