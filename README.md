@@ -132,6 +132,13 @@ This course equips students with both theoretical knowledge and practical skills
 - Practical Application: Allowing students to apply their knowledge through hands-on exercises and projects, solving real-world problems.
 - Programming Practice: Involving actual coding and implementation of object-oriented programming concepts.
 
+### Programming Languages and Tools
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
 
 # Year II
 ## [Web Development Fundamentals 7.5hp TGWK12](https://github.com/Nazlizamanian/web-development-TGWK12)
