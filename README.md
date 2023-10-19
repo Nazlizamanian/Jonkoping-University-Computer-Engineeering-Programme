@@ -92,6 +92,11 @@ In this course the systems MySQL and Microsoft SQL Server Management Studio were
 - Query languages
 - Databases in the system development life cycle
 - Transaction management
+### Programming Languages and Tools 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+</div>
 
 ## Datastructures and Algorithms 7.5hp TDSK17
 ### Course Description
@@ -155,6 +160,7 @@ The course aims to provide fundamental knowledge in web programming. It begins w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="40" alt="handlebars logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
   
