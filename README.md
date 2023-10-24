@@ -95,6 +95,9 @@ In this course the systems MySQL and Microsoft SQL Server Management Studio were
 - Query languages
 - Databases in the system development life cycle
 - Transaction management
+
+Grade received: 3.
+
 ### Programming Languages and Tools 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
@@ -125,6 +128,7 @@ The course includes the following topics:
 - Linear and separable first-order differential equations
 - Second-order linear differential equations with constant coefficients
 
+Grade received: 3.
 
 ## [Object oriented programming 7.5hp TOUK18](https://github.com/Nazlizamanian/Object-oriented-programming-TOUK18)
 ### Course Description 
@@ -134,6 +138,8 @@ This course equips students with both theoretical knowledge and practical skills
 - Object-Oriented Languages: Introducing different object-oriented programming languages and their unique characteristics.
 - Practical Application: Allowing students to apply their knowledge through hands-on exercises and projects, solving real-world problems.
 - Programming Practice: Involving actual coding and implementation of object-oriented programming concepts.
+
+Grade received: 3.
 
 ### Programming Languages and Tools
   <div align="left">
