@@ -36,7 +36,7 @@ The content of the course aims to provide the student with an introduction to fu
 - Compilation tools and the compilation process
 - Embedded systems
 
-Grade reccived: 4.
+Grade received: 4.
 
 ## Discrete Mathematics 7.5hp TDMG17
 ### Course Description 
