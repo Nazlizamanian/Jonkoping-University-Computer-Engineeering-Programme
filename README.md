@@ -3,7 +3,7 @@
 ## About the programme
 The first year of the program is primarily dedicated to foundational courses in programming, aimed at providing students with a fundamental basic understanding of both programming and mathematics. The second year is centered around the specialization in software development and mobile platforms and lastyl the thrid year is focused around working in project from a therotical perspective. The education is largely based on projects and exercises that provide practical experience of the techniques being taught. Projects can span across multiple courses: in one course, you might build a user interface for a mobile app, then in the next course, construct its data storage, and in a third course, work on its network functionality. This approach offers a holistic view and understanding of the entire development process.
 
-The school uses the grading system U/3/4/5.
+The school uses the grading system U/3/4/5 for examinating all of the elements in the courses.
 
 # Year I 
 - Introduction to Computing 7.5hp TDIG19
