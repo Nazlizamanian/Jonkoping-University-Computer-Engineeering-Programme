@@ -219,6 +219,18 @@ The course provides an introduction to the structure of the Internet and TCP/IP 
 </div>
 
 
+## iOS Development 7.5hp TISK18
+
+
+## Web Development - Advanced Concepts 7.5hp TFWN19
+
+## Workplace-Based Course in Computer Science (Internship) 12hp
+In the course, students apply the knowledge gained from previous program courses to practical engineering work at a company, public administration, or organization. This experience provides insights that will be beneficial in subsequent courses. The course also includes an on-campus introduction, an ongoing analysis and documentation of selected areas during the work, and a reporting session on campus. The course consists of the following elements:
+
+Introductory lectures that address the employer-employee relationship.
+- Students actively participate and contribute their knowledge to practical work relevant to the main field of study.
+- Students continuously analyze and document their work.
+- Students present their analysis and practical experiences in a final report.
 
 
 
