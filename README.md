@@ -3,8 +3,6 @@
 ## About the programme
 The first year of the program is primarily dedicated to foundational courses in programming, aimed at providing students with a fundamental basic understanding of both programming and mathematics. The second year is centered around the specialization in software development and mobile platforms and lastyl the thrid year is focused around working in project from a therotical perspective. The education is largely based on projects and exercises that provide practical experience of the techniques being taught. Projects can span across multiple courses: in one course, you might build a user interface for a mobile app, then in the next course, construct its data storage, and in a third course, work on its network functionality. This approach offers a holistic view and understanding of the entire development process.
 
-The school uses the grading system U/3/4/5 for examinating all of the elements in the courses.
-
 # Year I 
 - Introduction to Computing 7.5hp TDIG19
 - Discrete Mathematics 7.5hp TDMG17
@@ -36,7 +34,6 @@ The content of the course aims to provide the student with an introduction to fu
 - Compilation tools and the compilation process
 - Embedded systems
 
-Grade received: 4.
 
 ## Discrete Mathematics 7.5hp TDMG17
 ### Course Description 
@@ -96,7 +93,6 @@ In this course the systems MySQL and Microsoft SQL Server Management Studio were
 - Databases in the system development life cycle
 - Transaction management
 
-Grade received: 3.
 
 ### Programming Languages and Tools 
 <div align="left">
@@ -128,7 +124,6 @@ The course includes the following topics:
 - Linear and separable first-order differential equations
 - Second-order linear differential equations with constant coefficients
 
-Grade received: 3.
 
 ## [Object oriented programming 7.5hp TOUK18](https://github.com/Nazlizamanian/Object-oriented-programming-TOUK18)
 ### Course Description 
