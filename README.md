@@ -202,6 +202,10 @@ The purpose of the course is to give an introduction to and experience of Androi
 - Other key APIs
 - Publishing on the Google Play Store
 
+#### Notes App 
+
+#### Tic Tac toe Multi Game App
+
 ### Programming Languages and Tools 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
