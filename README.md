@@ -190,6 +190,27 @@ The course aims to provide students with the knowledge required to perform objec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
+## Android och gränssnittsdesign (Android Development) 7.5hp
+### Course Description 
+The purpose of the course is to give an introduction to and experience of Android programming, from start to finished and published app.
+
+The course includes the following topics:
+- Android architecture
+- Java
+- The Android SDK
+- Handling different runtime configurations
+- GUI development for Android
+- Sensors (gyroscope, GPS, camera)
+- Network communication in Android
+- Other key APIs
+- Publishing on the Google Play Store
+
+### Programming Languages and Tools 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+</div>
 
 ## [Network Programming 7.5hp TNPK18](https://github.com/Nazlizamanian/network-programming)
 ### Course Description 
