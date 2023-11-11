@@ -134,7 +134,6 @@ This course equips students with both theoretical knowledge and practical skills
 - Practical Application: Allowing students to apply their knowledge through hands-on exercises and projects, solving real-world problems.
 - Programming Practice: Involving actual coding and implementation of object-oriented programming concepts.
 
-Grade received: 3.
 
 ### Programming Languages and Tools
   <div align="left">
