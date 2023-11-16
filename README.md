@@ -98,6 +98,8 @@ In this course the systems MySQL and Microsoft SQL Server Management Studio were
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
 </div>
 
 ## Datastructures and Algorithms 7.5hp TDSK17
