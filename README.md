@@ -98,8 +98,7 @@ In this course the systems MySQL and Microsoft SQL Server Management Studio were
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
 
 ## Datastructures and Algorithms 7.5hp TDSK17
@@ -174,9 +173,10 @@ The course aims to provide fundamental knowledge in web programming. It begins w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="40" alt="handlebars logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
 </div>
 
-  
 ## [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](https://github.com/Nazlizamanian/Object-oriented-Software-Development-with-Design-Patterns)
 ### Course Description
 The course aims to provide students with the knowledge required to perform object-oriented design in accordance with established practices and to be able to implement the results of such design in program code. The course includes the following topics:
@@ -188,9 +188,12 @@ The course aims to provide students with the knowledge required to perform objec
 
 ### Programming Languages and Tools 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="eclipseide logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
+###
 ## Android och gränssnittsdesign (Android Development) 7.5hp TAGK19
 ### Course Description 
 The purpose of the course is to give an introduction to and experience of Android programming, from start to finished and published app. The course includes the following topics:
@@ -235,9 +238,13 @@ The course provides an introduction to the structure of the Internet and TCP/IP 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
 </div>
 
-
+  
 ## iOS Development 7.5hp TISK18
 
 
