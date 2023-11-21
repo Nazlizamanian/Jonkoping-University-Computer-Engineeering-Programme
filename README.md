@@ -247,7 +247,27 @@ The course provides an introduction to the structure of the Internet and TCP/IP 
   
 ## iOS Development 7.5hp TISK18
 ### Course Description
+The course aims to provide students with knowledge and hands-on experience in applied iOS programming, from the initial stages to the completion and publication of an app.
 
+The course includes the following components:
+
+XCode and Swift
+Memory management
+Common design patterns in iOS APIs
+GUI development in iOS
+Software quality
+Testing and debugging
+Sensor usage
+Network communication in iOS
+Other important APIs
+Publishing in the App Store
+
+### Programming Languages and Tools 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+</div>
 
 ## Web Development - Advanced Concepts 7.5hp TFWN19
 ### Course Description
