@@ -246,9 +246,22 @@ The course provides an introduction to the structure of the Internet and TCP/IP 
 
   
 ## iOS Development 7.5hp TISK18
+### Course Description
 
 
 ## Web Development - Advanced Concepts 7.5hp TFWN19
+### Course Description
+The course aims to convey advanced knowledge in web development. It begins with an overview of the use of JavaScript and the Document Object Model to directly modify the graphical interface of a website on the client side. Some key client-side libraries and APIs are also introduced. Following that, the focus shifts to the server side, covering Node.js and associated frameworks, teaching students how to build scalable database-based backend solutions that communicate with frontend applications through REST APIs. The security perspective is maintained throughout the course, both on the client and server sides, as well as a focus on good program structure with containers to facilitate the development, testing, and deployment of web applications.
+
+The course includes the following components:
+
+Document Object Model
+Client APIs and libraries
+Architecture and REST APIs
+Containers for web development
+Backend in Node.js
+Authentication and authorization
+Calling other web services
 
 
 
