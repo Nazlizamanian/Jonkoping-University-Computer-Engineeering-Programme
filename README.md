@@ -251,16 +251,16 @@ The course aims to provide students with knowledge and hands-on experience in ap
 
 The course includes the following components:
 
-XCode and Swift
-Memory management
-Common design patterns in iOS APIs
-GUI development in iOS
-Software quality
-Testing and debugging
-Sensor usage
-Network communication in iOS
-Other important APIs
-Publishing in the App Store
+- XCode and Swift
+- Memory management
+- Common design patterns in iOS APIs
+- GUI development in iOS
+- Software quality
+- Testing and debugging
+- Sensor usage
+- Network communication in iOS
+- Other important APIs
+- Publishing in the App Store
 
 ### Programming Languages and Tools 
 <div align="left">
@@ -275,13 +275,13 @@ The course aims to convey advanced knowledge in web development. It begins with 
 
 The course includes the following components:
 
-Document Object Model
-Client APIs and libraries
-Architecture and REST APIs
-Containers for web development
-Backend in Node.js
-Authentication and authorization
-Calling other web services
+- Document Object Model
+- Client APIs and libraries
+- Architecture and REST APIs
+- Containers for web development
+- Backend in Node.js
+- Authentication and authorization
+- Calling other web services
 
 
 
