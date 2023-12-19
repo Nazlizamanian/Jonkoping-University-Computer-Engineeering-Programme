@@ -101,7 +101,7 @@ In this course the systems MySQL and Microsoft SQL Server Management Studio were
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
 
-## Datastructures and Algorithms 7.5hp TDSK17
+## [Datastructures and Algorithms 7.5hp TDSK17](https://github.com/Nazlizamanian/datastructures-and-algorithms)
 ### Course Description
 Advanced computer programs almost always make use of certain fundamental data structures (stacks, queues, hash tables, etc.). A programmer must, therefore, be well-acquainted with these data structures. They must understand how they work, what performance they offer, and how they can be utilized by programs solving complex problems. This course aims to address this need while providing students with the opportunity to practice their previously acquired knowledge in C/C++ and deepen their understanding of structured programming. The course covers the most fundamental data structures in computer science and the algorithms used to store and retrieve data from these structures. The course also includes several examples of applications.The course includes the following topics:
 
