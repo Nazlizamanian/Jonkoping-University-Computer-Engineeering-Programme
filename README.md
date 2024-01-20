@@ -11,7 +11,7 @@ The first year of the program is primarily dedicated to foundational courses in 
 - [Databases 6hp TDRK18](#databases-6hp-TDRK18)
 - [Datastructures and Algorithms 7.5hp TDSK17](#datastructures-and-algorithms-75hptdsk17)
 - [Calculus 1 (Envariabelsanalys) 9hp TEVG17](#Calculus-1-Envariabelsanalys-9hp-TEVG17)
-- [Object oriented programming 7.5hp TOUK18](#object-oriented-programming-75hp-touk18)
+- [Object oriented programming 7.5hp TOPK18](#object-oriented-programming-75hp-topk18)
 
 
 # Year II 
@@ -134,7 +134,7 @@ The course includes the following topics:
 - Second-order linear differential equations with constant coefficients
 
 
-## [Object oriented programming 7.5hp TOUK18](https://github.com/Nazlizamanian/Object-oriented-programming-TOUK18)
+## [Object oriented programming 7.5hp TOPK18](https://github.com/Nazlizamanian/Object-oriented-programming-TOPK18)
 ### Course Description 
 This course equips students with both theoretical knowledge and practical skills in object-oriented software development.The course is designed to provide students with a solid understanding of object-oriented software development and programming languages. The course examination cotains an exam at the end and additionally weekly homework assignments.The course covers the following key components:
 - Object-Oriented Concepts: Exploring the fundamental principles of object-oriented programming, including objects, classes, encapsulation, inheritance, and polymorphism.
