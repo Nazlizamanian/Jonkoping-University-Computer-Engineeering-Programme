@@ -21,6 +21,7 @@ The first year of the program is primarily dedicated to foundational courses in 
 -  [Network programming 7.5hp TNPK18](#network-programming-75hp-TNPK18)
 -  iOS Development 7.5hp TISK18
 -  [Web Development - Advanced Concepts 7.5hp TFWN19](#Web-Development-Advanced-Concepts-75hp-TFWN19)
+-  Industrial Placement Course in Computer Engineering 12hp TNDN15
 
 # Year I
 ## Introduction to Computing 7.5hp TDIG19
