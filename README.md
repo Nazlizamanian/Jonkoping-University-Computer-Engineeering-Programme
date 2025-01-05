@@ -17,7 +17,7 @@ The first year of the program is primarily dedicated to foundational courses in 
 # Year II 
 -  [Web Development Fundamentals 7.5hp TGWK12](#web-development-fundamentals-75hp-TGWK12)
 -  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp-TOUK18)
--  [Android och gränssnittsdesign (Android Development) 7.5hp TAGK19](#Android-och-gränssnittsdesign-(Android Development)-75hp-TAGK19)
+-  [Android och gränssnittsdesign (Android Development) 7.5hp TAGK19](#android-och-granssnittsdesign-android-development-75hp-tagk19)  
 -  [Network programming 7.5hp TNPK18](#network-programming-75hp-TNPK18)
 -  iOS Development 7.5hp TISK18
 -  [Web Development - Advanced Concepts 7.5hp TFWN19](#Web-Development-Advanced-Concepts-75hp-TFWN19)
@@ -213,7 +213,6 @@ The course aims to provide students with the knowledge required to perform objec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
 ## [Android och gränssnittsdesign (Android Development) 7.5hp TAGK19](https://github.com/Nazlizamanian/TicTacToe)
 ### Course Description 
 The purpose of the course is to give an introduction to and experience of Android programming, from start to finished and published app. The course includes the following topics:
@@ -263,7 +262,6 @@ The course provides an introduction to the structure of the Internet and TCP/IP 
 ## iOS Development 7.5hp TISK18
 ### Course Description
 The course aims to provide students with knowledge and hands-on experience in applied iOS programming, from the initial stages to the completion and publication of an app.
-
 The course includes the following components:
 
 - XCode and Swift
@@ -314,10 +312,8 @@ The course includes the following components:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-
-###
 ## Industrial Placement Course in Computer Engineering 12hp TNDN15
-
+### Course Description 
 Completed a seven-week internship (industry-based course in Computer Engineering) at Albia. The tasks involved continuing the development of a cloud service, a customer portal. The work included developing pages for contracts and user statistics, as well as implementing functions and managing database communication. The project utilized a non-relational database (NoSQL).
 
 ### Programming Languages and Tools 
@@ -329,7 +325,6 @@ Completed a seven-week internship (industry-based course in Computer Engineering
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
 
 # Year III
 ## DevOps Fundamentals 7.5 hp TDOK12
@@ -348,6 +343,13 @@ The course includes the following elements:
 - Ensuring Maintainability, Scalability, Security, Usability, Reliability and Flexibility
 - Deployment, CI/CD
 - Documenting DevOps
+
+### Programming Languages and Tools 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
 
 ## Information Security 7.5 hp TIHG10
