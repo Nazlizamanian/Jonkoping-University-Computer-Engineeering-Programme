@@ -17,7 +17,7 @@ The first year of the program is primarily dedicated to foundational courses in 
 # Year II 
 -  [Web Development Fundamentals 7.5hp TGWK12](#web-development-fundamentals-75hp-TGWK12)
 -  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp-TOUK18)
--  [Android och gränssnittsdesign (Android Development) 7.5hp TAGK19](#android-och-granssnittsdesign-android-development-75hp-tagk19)  
+-  [Android Development 7.5hp TAGK19](#android-development-75hp-tagk19)  
 -  [Network programming 7.5hp TNPK18](#network-programming-75hp-TNPK18)
 -  iOS Development 7.5hp TISK18
 -  [Web Development - Advanced Concepts 7.5hp TFWN19](#Web-Development-Advanced-Concepts-75hp-TFWN19)
@@ -213,7 +213,7 @@ The course aims to provide students with the knowledge required to perform objec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-## [Android och gränssnittsdesign (Android Development) 7.5hp TAGK19](https://github.com/Nazlizamanian/TicTacToe)
+## [Android Development 7.5hp TAGK19](https://github.com/Nazlizamanian/TicTacToe)
 ### Course Description 
 The purpose of the course is to give an introduction to and experience of Android programming, from start to finished and published app. The course includes the following topics:
  - Android architecture
