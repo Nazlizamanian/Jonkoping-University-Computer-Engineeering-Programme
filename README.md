@@ -17,11 +17,22 @@ The first year of the program is primarily dedicated to foundational courses in 
 # Year II 
 -  [Web Development Fundamentals 7.5hp TGWK12](#web-development-fundamentals-75hp-TGWK12)
 -  [Object-oriented Software Development with Design Patterns 7.5hp TOUK18](#object-oriented-software-development-with-design-patterns-75hp-TOUK18)
--  Android och gränssnittsdesign (Android Development) 7.5hp
+-  [Android och gränssnittsdesign (Android Development) 7.5hp TAGK19](#Android-och-gränssnittsdesign-(Android Development)-75hp-TAGK19)
 -  [Network programming 7.5hp TNPK18](#network-programming-75hp-TNPK18)
 -  iOS Development 7.5hp TISK18
 -  [Web Development - Advanced Concepts 7.5hp TFWN19](#Web-Development-Advanced-Concepts-75hp-TFWN19)
 -  Industrial Placement Course in Computer Engineering 12hp TNDN15
+
+
+# Year III
+- DevOps Fundamentals 7.5 hp TDOK12
+- Information Security 7.5 hp TIHG10
+- Research Methods in Computer Science and Informatics 7.5 hp TFIN13
+- Intelligent Mobile Systems 7.5hp TIGN13
+- Business Planning and Entrepreneurship 7.5hp TBPG19
+- Bachelor’s Thesis in Computer Science and Engineering 15 hp 
+
+
 
 # Year I
 ## Introduction to Computing 7.5hp TDIG19
@@ -203,7 +214,7 @@ The course aims to provide students with the knowledge required to perform objec
 </div>
 
 ###
-## Android och gränssnittsdesign (Android Development) 7.5hp TAGK19
+## [Android och gränssnittsdesign (Android Development) 7.5hp TAGK19](https://github.com/Nazlizamanian/TicTacToe)
 ### Course Description 
 The purpose of the course is to give an introduction to and experience of Android programming, from start to finished and published app. The course includes the following topics:
  - Android architecture
@@ -215,10 +226,6 @@ The purpose of the course is to give an introduction to and experience of Androi
 - Network communication in Android
 - Other key APIs
 - Publishing on the Google Play Store
-
-#### Notes App 
-
-#### Tic Tac toe Multi Game App
 
 ### Programming Languages and Tools 
 <div align="left">
@@ -309,6 +316,65 @@ The course includes the following components:
 
 
 ###
+## Industrial Placement Course in Computer Engineering 12hp TNDN15
+
+Completed a seven-week internship (industry-based course in Computer Engineering) at Albia. The tasks involved continuing the development of a cloud service, a customer portal. The work included developing pages for contracts and user statistics, as well as implementing functions and managing database communication. The project utilized a non-relational database (NoSQL).
+
+### Programming Languages and Tools 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+# Year III
+## DevOps Fundamentals 7.5 hp TDOK12
+### Course Description 
+The course aims to convey the fundamentals of DevOps in software architecture. Teaching covers everything from the initial idea of DevOps, the need for DevOps and the benefits of DevOps in software solutions. The course focuses on how to identify potential DevOps solutions in software architectures, embracing the DevOps life cycle, planning with DevOps, developing for DevOps, and finally deployment in a DevOps pipeline. The course also gives the students the ability to implement their own DevOps pipelines in already existing solutions, utilizing skills and knowledge gained from previous courses in software development which DevOps builds on.
+
+The course includes the following elements:
+- Evolution of DevOps
+- Benefits of DevOps
+- Monoliths vs Microservices
+- Identifying appropriate DevOps solutions
+- Integrating DevOps solutions
+- Establishing DevOps values
+- DevOps Life Cycle
+- Planning with DevOps
+- Ensuring Maintainability, Scalability, Security, Usability, Reliability and Flexibility
+- Deployment, CI/CD
+- Documenting DevOps
 
 
+## Information Security 7.5 hp TIHG10
+### Course Description 
+In today's society, there are high demands for information security.The course aims to provide an overview of the field of information security by introducing common concepts, principles, models, and standards. It also covers human factors in security work and the role of humans in the field of information security. Furthermore, information security is an interdisciplinary field with connections to many other areas, such as law and ethics, which are therefore addressed in the course.
 
+The course includes the following topics:
+
+- Common concepts and terms in the field of information security
+- Authentication methods
+- Malware and malicious programs
+- Operating system security
+- Network security
+- Management systems for systematic information
+
+
+## Research Methods in Computer Science and Informatics 7.5 hp TFIN13
+### Course Description 
+The course provides a fundamental introduction to modern approaches to science, with a focus on engineering, computer science, and informatics. The course emphasizes giving students insight into the history and philosophy of science, as well as how scientific methods are applied within engineering, computer science, and informatics. Upon completion of the course, students will have acquired sufficient knowledge on how to conduct research projects and how to write scientific reports.
+
+The course covers the following topics:
+
+- Different research paradigms: Positivism, Hermeneutics, Interpretation, Critical Research, Design Science, Action Research
+- Computer science and informatics as research fields
+- Inductive and deductive research
+- Qualitative and quantitative studies
+- Systematic literature review
+- Experiments and proof of concept as research methods
+- State of the art
+- Writing and reviewing scientific reports
