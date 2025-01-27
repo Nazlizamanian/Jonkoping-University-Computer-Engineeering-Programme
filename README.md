@@ -275,6 +275,12 @@ The course includes the following components:
 - Other important APIs
 - Publishing in the App Store
 
+
+### Weather App 
+Using Open-Meteo API. 
+[View the repository on GitHub](https://github.com/Nazlizamanian/weather-app)
+
+
 ### Programming Languages and Tools 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
