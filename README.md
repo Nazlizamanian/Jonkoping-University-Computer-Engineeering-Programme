@@ -28,10 +28,9 @@ The first year of the program is primarily dedicated to foundational courses in 
 - DevOps Fundamentals 7.5 hp TDOK12
 - Information Security 7.5 hp TIHG10
 - Research Methods in Computer Science and Informatics 7.5 hp TFIN13
+- Economics and Entrepreneurship 7.5 hp TEPG14
 - Intelligent Mobile Systems 7.5hp TIGN13
-- Business Planning and Entrepreneurship 7.5hp TBPG19
 - Bachelor’s Thesis in Computer Science and Engineering 15 hp 
-
 
 
 # Year I
