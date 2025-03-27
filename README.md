@@ -280,6 +280,9 @@ The course includes the following components:
 Using Open-Meteo API. 
 [View the repository on GitHub](https://github.com/Nazlizamanian/weather-app)
 
+## Recipe Meal planner APP 
+Final Project created in the course iOS Developemnt TISK18 7.5hp, created a recipe meal planner app. Consisting of a tinder swiping interface with external API and a calendarview to plan meals. Incoporated CRUD operations for the recipes and unit-testing for the business logic.
+[View the repository on GitHub](https://github.com/Nazlizamanian/iOS_Development_TISK18)
 
 ### Programming Languages and Tools 
 <div align="left">
