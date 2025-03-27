@@ -389,3 +389,48 @@ The course covers the following topics:
 - Experiments and proof of concept as research methods
 - State of the art
 - Writing and reviewing scientific reports
+
+## Economics and Entrepreneurship 7.5 hp TEPG14
+### Course Description 
+The course provides basic knowledge in business economics and entrepreneurship.
+The course includes the following components:
+
+- Basic business economics, entrepreneurship, and marketing
+- Development of a business plan
+- The establishment process
+- Product, service, investment, and profitability calculations
+- Accounting and financial analysis
+- Sustainable development
+
+## Intelligent Mobile Systems 7.5 hp TIGN13
+### Course Description
+The course provides knowledge in data communication, localization, sensors, and cloud services necessary to build a mobile system with some intelligence in the front- or back-end. Students are also given the opportunity to apply the knowledge they have acquired earlier in the program, both technical and development-methodological, to develop a qualified product or service.
+
+The course includes the following components:
+- Antennas, modulation, bandwidth
+- Bluetooth, Wi-Fi, LoRa, Zigbee, CAN, Ethernet
+- Localization services (GNSS, etc.)
+- Sensors for intelligent systems (vision, ToF, etc.)
+- Cloud services for mobile systems
+- User interfaces for intelligent products
+- Project methodology
+
+## Thesis in Computer Engineering 15 hp TETP10
+### Course Description 
+The course provides basic knowledge and skills in independently carrying out a larger project that demonstrates the student's ability to apply, critically use, and further develop the knowledge acquired during their education, preferably in close collaboration with companies, organizations, or authorities.
+
+The course includes the following components:
+- Problem formulation
+- Project planning
+- Data collection, processing, and analysis
+- Project execution
+- Report writing
+- Oral presentation and peer review
+
+### Thesis subject
+This thesis focuses on developing a lightweight, web-based security application to scan local networks for devices with weak or default passwords. The goal is to improve accessibility and usability, allowing non-technical users to identify vulnerable devices and update their passwords to enhance network security.
+
+Research Questions:
+1. What are users' expectations regarding the accessibility, usability, and functionality of the web application?
+2. How can the application effectively identify weak or commonly used passwords on network devices?
+
